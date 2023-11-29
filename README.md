@@ -1,9 +1,9 @@
-# SANOFI Magne ZiS generic, 230322-SF-23. New packshots 2023-11-07
+# SANOFI Magne ZiS OLMED drogeria, 230322-SF-23. New packshots 2023-11-07
 <!-- please enter project number recived from PM -->
 
 ## LIVE SITE LINK
 <!-- please enter link to site preview here -->
-[Live on Netlify](https://magne-zis-new.netlify.app/)
+[Live on Netlify](https://magne-zis-new-olmed-drogeria.netlify.app/)
 
 ## PROJECT PREVIEW
 <!-- ![Design preview for the project](./link) -->
@@ -14,4 +14,4 @@
 
 ### DESTINATION (name of e-retailer or general/pure)
 <!-- please enter e-retailers name -->
-Generic
+Olmed drogeria
